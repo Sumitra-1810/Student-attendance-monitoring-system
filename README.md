@@ -1,0 +1,1 @@
+This software allows the instructor to accurately and quickly record the attendance of students day-wise and subject-wise with a single click. It also allows the teacher to generate a report to check whether a student is regular or not.
